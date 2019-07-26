@@ -35,7 +35,7 @@ setup(
         "Programming Language :: Python :: 3.4",
     ],
     install_requires=[
-        "flextls >= 0.4dev1",
+        "flextls >= 0.3",
         "six >= 1.4.1"
     ],
     extras_require={
